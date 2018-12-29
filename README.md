@@ -5,5 +5,5 @@ Build Docker container for Ubuntu running Comodo AV
 Run the following commands
 
     cd docker
-    sudo docker build -t ubuntu-comodo:$(date +%Y%m%M) .
+    sudo docker build -t ubuntu-comodo:$(date +%Y%m%d) .
     
